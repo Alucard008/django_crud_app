@@ -2,8 +2,8 @@
 
 To run this application , you need the following
 
-  -Postgres
-  -Pychamr/VsCode (any other IDE)
+  - Postgres
+  - Pychamr/VsCode (any other IDE)
 
 Steps to follow:
   - Clone this repo
