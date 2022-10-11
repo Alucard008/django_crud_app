@@ -1,6 +1,6 @@
 # django_crud_app
 
-To this application , you need the following
+To run this application , you need the following
 
   -Postgres
   -Pychamr/VsCode (any other IDE)
